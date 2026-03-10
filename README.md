@@ -1,2 +1,2 @@
 # Anal-tica
-Here i am going to archive my progress at the studie of data science and analitics and other stuff.
+Here we are going to archive my progress at the studies of data science and analitics and other stuff.
